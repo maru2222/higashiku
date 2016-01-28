@@ -7,3 +7,4 @@ test Kongoumaru
 github上で変更を行ったです。
 
 西尾徹です。（フォーク）
+フォーク２

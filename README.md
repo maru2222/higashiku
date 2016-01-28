@@ -1,1 +1,2 @@
 # higashiku
+test Kongoumaru
